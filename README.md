@@ -1,2 +1,2 @@
 # Resume-Analyzer
-An AI-powered Resume Analyzer built using Python and Flask that helps users analyze their resumes, extract key information, identify skills, and evaluate resume relevance. Designed to simplify resume evaluation and support better career opportunities.
+AI-powered Resume Analyzer that analyzes resumes, extracts relevant skills, evaluates resume content, and provides insights to improve job relevance and ATS compatibility.
